@@ -1,3 +1,5 @@
+> This is a bundled version of the wonderful [jQuery Easing Plugin](https://github.com/gdsmith/jquery.easing) to make it available via [npm](https://www.npmjs.com/package/jquery.easing).
+
 # jQuery Easing Plugin
 
 What is it? A jQuery plugin from GSGD to give advanced easing options. More info [here](http://gsgd.co.uk/sandbox/jquery/easing)
